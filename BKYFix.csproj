@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <RootNamespace>BKYFix</RootNamespace>
+    <AssemblyName>BKYFix</AssemblyName>
+    <Version>1.0.0</Version>
+    <Product>BKYFix</Product>
+    <Description>查找或拖入考试客户端，写入 .NET Framework 4.8 启动配置。</Description>
+  </PropertyGroup>
+
+</Project>
